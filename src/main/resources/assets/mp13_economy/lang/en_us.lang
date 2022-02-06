@@ -1,0 +1,16 @@
+
+//Items
+item.currency_catalog.name=Currency Catalog
+item.price_list.name=Price List
+
+//Blocks
+tile.atm.name=ATM
+tile.big_safe.name=Big Safe
+tile.wall_safe.name=Wall Safe
+tile.safe.name=Safe
+tile.test_block.name=Test Block
+tile.wood_oak.name=Oak Wood
+tile.wood_spruce.name=Spruce Wood
+
+//Creative Tabs
+itemGroup.custom_eco_tab=Custom Economy
